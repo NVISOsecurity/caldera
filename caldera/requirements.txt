@@ -17,7 +17,7 @@ multipledispatch==0.4.9
 pycparser==2.18
 pyDatalog==0.17.1
 pymongo==3.5.1
-PyYAML==3.12
+PyYAML==5.4
 requests==2.18.4
 six==1.11.0
 toolz==0.9.0
